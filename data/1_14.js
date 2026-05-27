@@ -1,0 +1,1 @@
+var json_1_14 = {"type":"FeatureCollection","name":"1_14","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"name":"Собор Святого Иакова"},"geometry":{"type":"Point","coordinates":[-8.544632593777125,42.880433201614636]}}]}

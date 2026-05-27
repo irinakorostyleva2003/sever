@@ -1,0 +1,1 @@
+var json_5_10 = {"type":"FeatureCollection","name":"5_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"name":"Pazo do Rego do Pazo"},"geometry":{"type":"Point","coordinates":[-8.125259,43.0041491]}}]}
